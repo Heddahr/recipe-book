@@ -5,6 +5,7 @@
 - Tomato
 - Onion
 - Salt
+- Lime
 
 
 ## Instructions
